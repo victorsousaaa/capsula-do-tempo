@@ -1,6 +1,7 @@
 <p align="center">
   <img src=".github/preview.png" alt="Desmonstração do projeto" width="100%">
 </p>
+<<<<<<< HEAD
 
 ## 🖥️ Projeto
 
@@ -13,3 +14,5 @@ Esse projeto foi desenvolvido durante o NLW Rocketseat com as seguintes tecnolog
 -HTML
 -CSS
 -Git e Github
+=======
+>>>>>>> ad1107cbc6c2ba311650caaef475a4f163289ea3
