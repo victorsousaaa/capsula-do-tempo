@@ -38,7 +38,7 @@ nav {
   padding: 64px;
   grid-area: timeline;
   overflow-y: scroll;
-  animation: entering 0.7s ease-in-out;
+  animation: entering 0.9s ease-in-out;
 }
 .memory {
   display: flex;
@@ -91,7 +91,7 @@ aside {
   background-size: auto 100;
 }
 aside * {
-  animation: entering 0.7s ease-in-out;
+  animation: entering 0.9s ease-in-out;
 }
 aside img:nth-child(2) {
   width: 160px;
